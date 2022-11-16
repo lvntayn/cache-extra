@@ -1,5 +1,5 @@
 {
-    "name": "twig/cache-extra",
+    "name": "lvntayn/cache-extra",
     "type": "library",
     "description": "A Twig extension for Symfony Cache",
     "keywords": ["twig", "html", "cache"],
